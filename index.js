@@ -13,11 +13,16 @@ app.get('/chefs',(req,res)=>{
 })
 app.get('/chefs/:id',(req,res)=>{
     const id = req.params.id;
-    const chefRecipes = recipes.filter(r=> r.chefId === id);
-    res.send(chefRecipes);
+    const chef = chefs.find(r=> r.id === id);
+    res.send(chef);
 })
-app.get('/recipes',(req,res)=>{
+app.get('/recipes/',(req,res)=>{
     res.send(recipes);
+})
+app.get('/recipes/:id',(req,res)=>{
+    const id = req.params.id;
+    const chefRecipes = recipes.filter(r=>r.chefId === id);
+    res.send(chefRecipes);
 })
 app.listen(port,()=>{
     console.log(`your req listening by ${port}`)

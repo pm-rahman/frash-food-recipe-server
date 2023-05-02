@@ -1,136 +1,254 @@
 [
     {
-      "id": 1,
-      "chefId":"rew1",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "John Smith",
-      "bio": "John is a seasoned chef with over 20 years of experience in the culinary industry. He specializes in French cuisine and has won several awards for his innovative dishes.",
-      "likes": 1500,
-      "numberOfRecipes": 75,
-      "experienceName": "Executive Chef at Le Monde Restaurant"
+        "id": 1,
+        "chefId":"rew1",
+        "recipeName": "Spaghetti Carbonara",
+        "cookingMethod": "Boiling, sautéing",
+        "rating": 4.5,
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Bacon",
+            "Parmesan cheese",
+            "Black pepper"
+        ]
     },
     {
-      "id": 2,
-      "chefId":"rew1",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "John Smith",
-      "bio": "Maria is a passionate chef who grew up in a family of cooks. She loves to experiment with new flavors and ingredients, and her dishes are always a hit with diners.",
-      "likes": 1200,
-      "numberOfRecipes": 50,
-      "experienceName": "Head Chef at La Cocina Restaurant"
+        "id": 2,
+        "chefId":"rew1",
+        "recipeName": "Beef Stroganoff",
+        "cookingMethod": "Sautéing, simmering",
+        "rating": 4.2,
+        "ingredients": [
+            "Beef sirloin",
+            "Mushrooms",
+            "Onion",
+            "Sour cream",
+            "Beef broth"
+        ]
     },
     {
-      "id": 3,
-      "chefId":"rew2",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "Jane Doe",
-      "bio": "David is a classically trained chef who has worked in some of the world's top restaurants. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious.",
-      "likes": 2000,
-      "numberOfRecipes": 100,
-      "experienceName": "Sous Chef at The Ritz-Carlton"
+        "id": 3,
+        "chefId":"rew1",
+        "recipeName": "Chicken Parmesan",
+        "cookingMethod": "Breading, frying, baking",
+        "rating": 4.8,
+        "ingredients": [
+            "Chicken breasts",
+            "Breadcrumbs",
+            "Egg",
+            "Tomato sauce",
+            "Mozzarella cheese"
+        ]
     },
     {
-      "id": 4,
-      "chefId":"rew2",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "Jane Doe",
-      "bio": "Rachel is a self-taught chef who learned to cook from her grandmother. She specializes in Korean cuisine and has developed a loyal following for her authentic dishes.",
-      "likes": 800,
-      "numberOfRecipes": 30,
-      "experienceName": "Chef/Owner of Kim's Kitchen"
+        "id": 4,
+        "chefId":"rew2",
+        "recipeName": "Beef and Broccoli Stir-Fry",
+        "cookingMethod": "Stir-frying",
+        "rating": 4.3,
+        "ingredients": [
+            "Beef sirloin",
+            "Broccoli",
+            "Soy sauce",
+            "Garlic",
+            "Ginger"
+        ]
     },
     {
-      "id": 5,
-      "chefId":"rew3",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "David Lee",
-      "bio": "Mark is a young chef who has already made a name for himself in the culinary world. He is known for his creative use of local ingredients and his ability to elevate simple dishes to new heights.",
-      "likes": 2500,
-      "numberOfRecipes": 50,
-      "experienceName": "Chef de Partie at Noma"
+        "id": 5,
+        "chefId":"rew2",
+        "recipeName": "Mushroom Risotto",
+        "cookingMethod": "Sautéing, simmering",
+        "rating": 4.6,
+        "ingredients": [
+            "Arborio rice",
+            "Mushrooms",
+            "Parmesan cheese",
+            "Onion",
+            "White wine"
+        ]
     },
     {
-      "id": 6,
-      "chefId":"rew3",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "David Lee",
-      "bio": "Linda is a pastry chef who is passionate about creating beautiful and delicious desserts. She has won several awards for her innovative creations and is always looking for new ways to push the boundaries of pastry.",
-      "likes": 1800,
-      "numberOfRecipes": 40,
-      "experienceName": "Pastry Chef at The Four Seasons"
+        "id": 6,
+        "chefId":"rew2",
+        "recipeName": "Salmon with Lemon and Dill",
+        "cookingMethod": "Baking",
+        "rating": 4.7,
+        "ingredients": [
+            "Salmon fillets",
+            "Lemon",
+            "Dill",
+            "Olive oil",
+            "Salt and pepper"
+        ]
     },
     {
-      "id": 7,
-      "chefId":"rew4",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "Sarah Kim",
-      "bio": "Carlos is a Mexican chef who is proud of his heritage and loves to share his culture through his cooking. He specializes in traditional Mexican dishes but also enjoys experimenting with fusion cuisine.",
-      "likes": 900,
-      "numberOfRecipes": 20,
-      "experienceName": "Executive Chef at La Cantina"
+        "id": 7,
+        "chefId":"rew3",
+        "recipeName": "Roast Chicken",
+        "cookingMethod": "Roasting",
+        "rating": 4.4,
+        "ingredients": [
+            "Whole chicken",
+            "Lemon",
+            "Garlic",
+            "Rosemary",
+            "Olive oil"
+        ]
     },
     {
-      "id": 8,
-      "chefId":"rew4",
-      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-      "chefName": "Sarah Kim",
-      "bio": "Linda is a pastry chef who is passionate about creating beautiful and delicious desserts. She has won several awards for her innovative creations and is always looking for new ways to push the boundaries of pastry.",
-      "likes": 1800,
-      "numberOfRecipes": 40,
-      "experienceName": "Pastry Chef at The Four Seasons"
+        "id": 8,
+        "chefId":"rew3",
+        "recipeName": "Beef Tacos",
+        "cookingMethod": "Grilling, sautéing",
+        "rating": 4.0,
+        "ingredients": [
+            "Ground beef",
+            "Taco seasoning",
+            "Tortillas",
+            "Lettuce",
+            "Tomatoes"
+        ]
     },
     {
         "id": 9,
-        "chefId":"rew5",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-        "chefName": "Mark Lee",
-        "bio": "Maria is a passionate chef who grew up in a family of cooks. She loves to experiment with new flavors and ingredients, and her dishes are always a hit with diners.",
-        "likes": 1200,
-        "numberOfRecipes": 50,
-        "experienceName": "Head Chef at La Cocina Restaurant"
-      },
-      {
+        "chefId":"rew3",
+        "recipeName": "Pad Thai",
+        "cookingMethod": "Stir-frying",
+        "rating": 4.9,
+        "ingredients": [
+            "Rice noodles",
+            "Shrimp",
+            "Tofu",
+            "Bean sprouts",
+            "Peanuts"
+        ]
+    },
+    {
         "id": 10,
-        "chefId":"rew5",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-        "chefName": "Mark Lee",
-        "bio": "David is a classically trained chef who has worked in some of the world's top restaurants. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious.",
-        "likes": 2000,
-        "numberOfRecipes": 100,
-        "experienceName": "Sous Chef at The Ritz-Carlton"
-      },
-      {
+        "chefId":"rew4",
+        "recipeName": "Chicken Curry",
+        "cookingMethod": "Grilling, sautéing",
+        "rating": 4.0,
+        "ingredients": [
+            "Ground beef",
+            "Taco seasoning",
+            "Tortillas",
+            "Lettuce",
+            "Tomatoes"
+        ]
+    },
+    {
         "id": 11,
-        "chefId":"rewq1",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-        "chefName": "Emily Chen",
-        "bio": "Rachel is a self-taught chef who learned to cook from her grandmother. She specializes in Korean cuisine and has developed a loyal following for her authentic dishes.",
-        "likes": 800,
-        "numberOfRecipes": 30,
-        "experienceName": "Chef/Owner of Kim's Kitchen"
-      },
-      {
+        "chefId":"rew4",
+        "recipeName": "Spaghetti Carbonara",
+        "cookingMethod": "Boiling, sautéing",
+        "rating": 4.5,
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Bacon",
+            "Parmesan cheese",
+            "Black pepper"
+        ]
+    },
+    {
         "id": 12,
-        "chefId":"rewq1",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
-        "chefName": "Emily Chen",
-        "bio": "Mark is a young chef who has already made a name for himself in the culinary world. He is known for his creative use of local ingredients and his ability to elevate simple dishes to new heights.",
-        "likes": 2500,
-        "numberOfRecipes": 50,
-        "experienceName": "Chef de Partie at Noma"
-      }
+        "chefId":"rew4",
+        "recipeName": "Beef Stroganoff",
+        "cookingMethod": "Sautéing, simmering",
+        "rating": 4.2,
+        "ingredients": [
+            "Beef sirloin",
+            "Mushrooms",
+            "Onion",
+            "Sour cream",
+            "Beef broth"
+        ]
+    },
+    {
+        "id": 13,
+        "chefId":"rew5",
+        "recipeName": "Chicken Parmesan",
+        "cookingMethod": "Breading, frying, baking",
+        "rating": 4.8,
+        "ingredients": [
+            "Chicken breasts",
+            "Breadcrumbs",
+            "Egg",
+            "Tomato sauce",
+            "Mozzarella cheese"
+        ]
+    },
+    {
+        "id": 14,
+        "chefId":"rew5",
+        "recipeName": "Beef and Broccoli Stir-Fry",
+        "cookingMethod": "Stir-frying",
+        "rating": 4.3,
+        "ingredients": [
+            "Beef sirloin",
+            "Broccoli",
+            "Soy sauce",
+            "Garlic",
+            "Ginger"
+        ]
+    },
+    {
+        "id": 15,
+        "chefId":"rew5",
+        "recipeName": "Mushroom Risotto",
+        "cookingMethod": "Sautéing, simmering",
+        "rating": 4.6,
+        "ingredients": [
+            "Arborio rice",
+            "Mushrooms",
+            "Parmesan cheese",
+            "Onion",
+            "White wine"
+        ]
+    },
+    {
+        "id": 16,
+        "chefId":"rew6",
+        "recipeName": "Salmon with Lemon and Dill",
+        "cookingMethod": "Baking",
+        "rating": 4.7,
+        "ingredients": [
+            "Salmon fillets",
+            "Lemon",
+            "Dill",
+            "Olive oil",
+            "Salt and pepper"
+        ]
+    },
+    {
+        "id": 17,
+        "chefId":"rew6",
+        "recipeName": "Roast Chicken",
+        "cookingMethod": "Roasting",
+        "rating": 4.4,
+        "ingredients": [
+            "Whole chicken",
+            "Lemon",
+            "Garlic",
+            "Rosemary",
+            "Olive oil"
+        ]
+    },
+    {
+        "id": 18,
+        "chefId":"rew6",
+        "recipeName": "Beef Tacos",
+        "cookingMethod": "Grilling, sautéing",
+        "rating": 4.0,
+        "ingredients": [
+            "Ground beef",
+            "Taco seasoning",
+            "Tortillas",
+            "Lettuce",
+            "Tomatoes"
+        ]
+    }
 ]
-
-  
