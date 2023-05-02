@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "ChefName": "John Smith",
+        "experience": "10 years",
+        "NumberOfRecipes": 50,
+        "Likes": 1000
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "ChefName": "Jane Doe",
+        "experience": "5 years",
+        "NumberOfRecipes": 20,
+        "Likes": 500
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "ChefName": "David Lee",
+        "experience": "8 years",
+        "NumberOfRecipes": 30,
+        "Likes": 800
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "ChefName": "Sarah Kim",
+        "experience": "3 years",
+        "NumberOfRecipes": 10,
+        "Likes": 200
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "ChefName": "Mark Lee",
+        "experience": "6 years",
+        "NumberOfRecipes": 40,
+        "Likes": 600
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "ChefName": "Emily Chen",
+        "experience": "2 years",
+        "NumberOfRecipes": 5,
+        "Likes": 50
+    }
+]
