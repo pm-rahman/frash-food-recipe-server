@@ -4,6 +4,7 @@
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
         "ChefName": "John Smith",
         "experience": "10 years",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 50,
         "Likes": 1000
     },
@@ -12,6 +13,7 @@
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
         "ChefName": "Jane Doe",
         "experience": "5 years",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 20,
         "Likes": 500
     },
@@ -20,6 +22,7 @@
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
         "ChefName": "David Lee",
         "experience": "8 years",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 30,
         "Likes": 800
     },
@@ -28,6 +31,7 @@
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
         "ChefName": "Sarah Kim",
         "experience": "3 years",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 10,
         "Likes": 200
     },
@@ -36,6 +40,7 @@
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
         "ChefName": "Mark Lee",
         "experience": "6 years",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 40,
         "Likes": 600
     },
@@ -44,6 +49,7 @@
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
         "ChefName": "Emily Chen",
         "experience": "2 years",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 5,
         "Likes": 50
     }
