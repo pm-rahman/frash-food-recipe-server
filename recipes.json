@@ -1,0 +1,124 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "John Smith",
+      "bio": "John is a seasoned chef with over 20 years of experience in the culinary industry. He specializes in French cuisine and has won several awards for his innovative dishes.",
+      "likes": 1500,
+      "numberOfRecipes": 75,
+      "experienceName": "Executive Chef at Le Monde Restaurant"
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "John Smith",
+      "bio": "Maria is a passionate chef who grew up in a family of cooks. She loves to experiment with new flavors and ingredients, and her dishes are always a hit with diners.",
+      "likes": 1200,
+      "numberOfRecipes": 50,
+      "experienceName": "Head Chef at La Cocina Restaurant"
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "Jane Doe",
+      "bio": "David is a classically trained chef who has worked in some of the world's top restaurants. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious.",
+      "likes": 2000,
+      "numberOfRecipes": 100,
+      "experienceName": "Sous Chef at The Ritz-Carlton"
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "Jane Doe",
+      "bio": "Rachel is a self-taught chef who learned to cook from her grandmother. She specializes in Korean cuisine and has developed a loyal following for her authentic dishes.",
+      "likes": 800,
+      "numberOfRecipes": 30,
+      "experienceName": "Chef/Owner of Kim's Kitchen"
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "David Lee",
+      "bio": "Mark is a young chef who has already made a name for himself in the culinary world. He is known for his creative use of local ingredients and his ability to elevate simple dishes to new heights.",
+      "likes": 2500,
+      "numberOfRecipes": 50,
+      "experienceName": "Chef de Partie at Noma"
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "David Lee",
+      "bio": "Linda is a pastry chef who is passionate about creating beautiful and delicious desserts. She has won several awards for her innovative creations and is always looking for new ways to push the boundaries of pastry.",
+      "likes": 1800,
+      "numberOfRecipes": 40,
+      "experienceName": "Pastry Chef at The Four Seasons"
+    },
+    {
+      "id": 7,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "Sarah Kim",
+      "bio": "Carlos is a Mexican chef who is proud of his heritage and loves to share his culture through his cooking. He specializes in traditional Mexican dishes but also enjoys experimenting with fusion cuisine.",
+      "likes": 900,
+      "numberOfRecipes": 20,
+      "experienceName": "Executive Chef at La Cantina"
+    },
+    {
+      "id": 8,
+      "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+      "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+      "chefName": "Sarah Kim",
+      "bio": "Linda is a pastry chef who is passionate about creating beautiful and delicious desserts. She has won several awards for her innovative creations and is always looking for new ways to push the boundaries of pastry.",
+      "likes": 1800,
+      "numberOfRecipes": 40,
+      "experienceName": "Pastry Chef at The Four Seasons",
+    },
+    {
+        "id": 9,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+        "chefName": "Mark Lee",
+        "bio": "Maria is a passionate chef who grew up in a family of cooks. She loves to experiment with new flavors and ingredients, and her dishes are always a hit with diners.",
+        "likes": 1200,
+        "numberOfRecipes": 50,
+        "experienceName": "Head Chef at La Cocina Restaurant"
+      },
+      {
+        "id": 10,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+        "chefName": "Mark Lee",
+        "bio": "David is a classically trained chef who has worked in some of the world's top restaurants. He is known for his attention to detail and his ability to create dishes that are both beautiful and delicious.",
+        "likes": 2000,
+        "numberOfRecipes": 100,
+        "experienceName": "Sous Chef at The Ritz-Carlton"
+      },
+      {
+        "id": 11,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+        "chefName": "Emily Chen",
+        "bio": "Rachel is a self-taught chef who learned to cook from her grandmother. She specializes in Korean cuisine and has developed a loyal following for her authentic dishes.",
+        "likes": 800,
+        "numberOfRecipes": 30,
+        "experienceName": "Chef/Owner of Kim's Kitchen"
+      },
+      {
+        "id": 12,
+        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "thumbnail":"https://i.ibb.co/dL1J3VM/bannar-image.jpg",
+        "chefName": "Emily Chen",
+        "bio": "Mark is a young chef who has already made a name for himself in the culinary world. He is known for his creative use of local ingredients and his ability to elevate simple dishes to new heights.",
+        "likes": 2500,
+        "numberOfRecipes": 50,
+        "experienceName": "Chef de Partie at Noma"
+      }
+]
+
+  
