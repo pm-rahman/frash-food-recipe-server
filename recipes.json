@@ -1,121 +1,121 @@
 [
     {
         "id": 1,
-        "chefId":"rew1",
-        "recipeName": "Spaghetti Carbonara",
-        "cookingMethod": "Boiling, sautéing",
+        "chefId": "rew1",
+        "recipeName": "Mutton Curry with Potatoes",
+        "cookingMethod": "This mutton curry is very traditional in every home of Bangladesh. This village-style recipe consists of very common spices avoiding use of a lot of spices for easy and fast cooking.",
         "rating": 4.5,
         "ingredients": [
-            "Spaghetti",
-            "Eggs",
-            "Bacon",
-            "Parmesan cheese",
-            "Black pepper"
+            "1 kg Mutton",
+            "4 pcs Potato",
+            "1/2 cup Chopped onion",
+            "1 tsp each Ginger-garlic paste",
+            "1 tsp Cumin powder"
         ]
     },
     {
         "id": 2,
-        "chefId":"rew1",
-        "recipeName": "Beef Stroganoff",
-        "cookingMethod": "Sautéing, simmering",
+        "chefId": "rew1",
+        "recipeName": "Homestyle Chicken Korma",
+        "cookingMethod": "I love my Kormas. Most of all I love Bangladeshi Kormas, which tend to be lightly spiced but heavily flavored. We do not put a lot of heavy cream like the Indian version but prefer onions and ghee to give the creaminess. I came across this recipe in the New York Times via Shama Mubdi",
         "rating": 4.2,
         "ingredients": [
-            "Beef sirloin",
-            "Mushrooms",
-            "Onion",
-            "Sour cream",
-            "Beef broth"
+            "2 pounds bone-in chicken (dark meat best)",
+            "2 medium onions,  peeled",
+            "1.5  inch of ginger, chopped",
+            "4 cloves garlic, chopped",
+            "½ cup whole-milk yogurt"
         ]
     },
     {
         "id": 3,
-        "chefId":"rew1",
-        "recipeName": "Chicken Parmesan",
-        "cookingMethod": "Breading, frying, baking",
+        "chefId": "rew1",
+        "recipeName": "Chicken Pakora",
+        "cookingMethod": "Okay so this isn’t a traditional Bangladeshi dish, but given our love for everything deep fried, it is a welcome addition to my table anytime, at the dinner table or as a snack.",
         "rating": 4.8,
         "ingredients": [
-            "Chicken breasts",
-            "Breadcrumbs",
-            "Egg",
-            "Tomato sauce",
-            "Mozzarella cheese"
+            "1/2 cup mustard oil",
+            "4 bay leaves",
+            "4-6 dried red chilies",
+            "4 whole green cardamom",
+            "2 tbsp sugar"
         ]
     },
     {
         "id": 4,
-        "chefId":"rew2",
-        "recipeName": "Beef and Broccoli Stir-Fry",
-        "cookingMethod": "Stir-frying",
+        "chefId": "rew2",
+        "recipeName": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+        "cookingMethod": "This may just be the tastiest chicken dish I’ve ever cooked. Yes, this is high praise, even if I’m saying it myself. Kosha is a semi-dry curry, where the chicken is cooked slowly with the spices over a long period of time. I consider this manual slow cooking. While labor intensive.",
         "rating": 4.3,
         "ingredients": [
-            "Beef sirloin",
-            "Broccoli",
-            "Soy sauce",
-            "Garlic",
-            "Ginger"
+            "1/2 head of cabbage shredded thinly",
+            "2 tbsp ghee",
+            "1-2 dried red chili",
+            "4-6 cloves garlic, chopped",
+            "1/2 tsp black mustard seeds"
         ]
     },
     {
         "id": 5,
-        "chefId":"rew2",
-        "recipeName": "Mushroom Risotto",
-        "cookingMethod": "Sautéing, simmering",
+        "chefId": "rew2",
+        "recipeName": "Yogurt and Cilantro marinated grilled chicken",
+        "cookingMethod": "This is a great family favorite. Loved by both my wife and me. In fact, the recipe credit goes to her for having been able to replicate the recipe and taste that had become on of your go to orders and good tandoori restaurants. And this is an easy one to do too.",
         "rating": 4.6,
         "ingredients": [
-            "Arborio rice",
-            "Mushrooms",
-            "Parmesan cheese",
-            "Onion",
-            "White wine"
+            "2 cups of yogurt",
+            "One large bunch of cilantro (coriander leaves) stems included",
+            "3 tsps of salt",
+            "1 1/2 tsps black pepper",
+            "2 tsps ground corianderWhite wine"
         ]
     },
     {
         "id": 6,
-        "chefId":"rew2",
-        "recipeName": "Salmon with Lemon and Dill",
-        "cookingMethod": "Baking",
+        "chefId": "rew2",
+        "recipeName": "Panch Foron",
+        "cookingMethod": "Panch phoron (পাঁচ ফোড়ন  pãch pho?on) is a whole spice blend used as a flavor enhancer to a number of dishes on Bangladesh. The name literally means “five spices”. Unlike most spice mixes, panch phoron is always used whole and never ground. Traditionally, panch phoron is used with vegetables, chicken or beef curry, fish, lentils, ",
         "rating": 4.7,
         "ingredients": [
-            "Salmon fillets",
-            "Lemon",
-            "Dill",
-            "Olive oil",
-            "Salt and pepper"
+            "cumin seeds",
+            "fennel seeds",
+            "fenugreek seeds",
+            "black mustard seeds",
+            "nigella"
         ]
     },
     {
         "id": 7,
-        "chefId":"rew3",
-        "recipeName": "Roast Chicken",
-        "cookingMethod": "Roasting",
+        "chefId": "rew3",
+        "recipeName": "Homestyle Chicken Korma",
+        "cookingMethod": "I love my Kormas. Most of all I love Bangladeshi Kormas, which tend to be lightly spiced but heavily flavored. We do not put a lot of heavy cream like the Indian version but prefer onions and ghee to give the creaminess. I came across this recipe in the New York Times via Shama Mubdi. This is supremely easy to make. Stir it all in and cook.  The flavors are authentic.",
         "rating": 4.4,
         "ingredients": [
-            "Whole chicken",
-            "Lemon",
-            "Garlic",
-            "Rosemary",
-            "Olive oil"
+            "2 pounds bone-in chicken (dark meat best)",
+            "2 medium onions,  peeled",
+            "1.5  inch of ginger, chopped",
+            "4 cloves garlic, chopped",
+            "½ cup whole-milk yogurt"
         ]
     },
     {
         "id": 8,
-        "chefId":"rew3",
-        "recipeName": "Beef Tacos",
-        "cookingMethod": "Grilling, sautéing",
+        "chefId": "rew3",
+        "recipeName": "Kata Moshlar Mangsho – Meat with whole spices",
+        "cookingMethod": "As the name implies, this classical Bengladeshi meat dish uses whole spices instead of pastes and powders. There are two steps to this and one may stop at the first step – which is cooking the it over a stove. A secondary step is to continue to cook in the ‘dum’ style, which may take an additional hour or so.",
         "rating": 4.0,
         "ingredients": [
-            "Ground beef",
-            "Taco seasoning",
-            "Tortillas",
-            "Lettuce",
-            "Tomatoes"
+            "1 kg beef, cubed",
+            "1 large onion thinky sliced",
+            "1 tbsp ginger, julienned",
+            "1 tbsp garlic, chopped",
+            "6-8 dry red chilies"
         ]
     },
     {
         "id": 9,
-        "chefId":"rew3",
-        "recipeName": "Pad Thai",
-        "cookingMethod": "Stir-frying",
+        "chefId": "rew3",
+        "recipeName": "Shahi Rezala",
+        "cookingMethod": "To cook a Pad Thai, preheat your oven to the desired temperature, season the chicken with salt and pepper, and bake for approximately 20 minutes per pound until the internal temperature reaches 165°F.",
         "rating": 4.9,
         "ingredients": [
             "Rice noodles",
@@ -127,128 +127,128 @@
     },
     {
         "id": 10,
-        "chefId":"rew4",
-        "recipeName": "Chicken Curry",
-        "cookingMethod": "Grilling, sautéing",
+        "chefId": "rew4",
+        "recipeName": "Basmati Rice",
+        "cookingMethod": "A very fragrant rendition of Basmati rice.",
         "rating": 4.0,
         "ingredients": [
-            "Ground beef",
-            "Taco seasoning",
-            "Tortillas",
-            "Lettuce",
-            "Tomatoes"
+            "1 cup Basmati rice",
+            "1 small onion",
+            "3 medium carrots",
+            "1 bay leaf",
+            "1 cinnamon stick, crumbled"
         ]
     },
     {
         "id": 11,
-        "chefId":"rew4",
-        "recipeName": "Spaghetti Carbonara",
-        "cookingMethod": "Boiling, sautéing",
+        "chefId": "rew4",
+        "recipeName": "Bhuna Khichuri",
+        "cookingMethod": "Khichuri (also known as khichri in the Indian subcontinent) is a dish essentially of rice and lentils. There are an infinite varieties of Khichuri. This version is a drier version and uses Moog Daal (Mung beans) instead of the standard yellow lentils..",
         "rating": 4.5,
         "ingredients": [
-            "Spaghetti",
-            "Eggs",
-            "Bacon",
-            "Parmesan cheese",
-            "Black pepper"
+            "MoogdAl 1 cup",
+            "PolAu Rice  2 cups",
+            "Finely diced ginger 2 tsp",
+            "Salt 1 tbsp",
+            "Cinnamon Sticks 2/3"
         ]
     },
     {
         "id": 12,
-        "chefId":"rew4",
-        "recipeName": "Beef Stroganoff",
-        "cookingMethod": "Sautéing, simmering",
+        "chefId": "rew4",
+        "recipeName": "Homestyle Chicken Korma",
+        "cookingMethod": "I love my Kormas. Most of all I love Bangladeshi Kormas, which tend to be lightly spiced but heavily flavored. We do not put a lot of heavy cream like the Indian version but prefer onions and ghee to give the creaminess. I came across this recipe in the New York Times via Shama Mubdi",
         "rating": 4.2,
         "ingredients": [
-            "Beef sirloin",
-            "Mushrooms",
-            "Onion",
-            "Sour cream",
-            "Beef broth"
+            "2 pounds bone-in chicken (dark meat best)",
+            "2 medium onions,  peeled",
+            "1.5  inch of ginger, chopped",
+            "4 cloves garlic, chopped",
+            "½ cup whole-milk yogurt"
         ]
     },
     {
         "id": 13,
-        "chefId":"rew5",
-        "recipeName": "Chicken Parmesan",
-        "cookingMethod": "Breading, frying, baking",
+        "chefId": "rew5",
+        "recipeName": "Chicken Pakora",
+        "cookingMethod": "Okay so this isn’t a traditional Bangladeshi dish, but given our love for everything deep fried, it is a welcome addition to my table anytime, at the dinner table or as a snack.",
         "rating": 4.8,
         "ingredients": [
-            "Chicken breasts",
-            "Breadcrumbs",
-            "Egg",
-            "Tomato sauce",
-            "Mozzarella cheese"
+            "1/2 cup mustard oil",
+            "4 bay leaves",
+            "4-6 dried red chilies",
+            "4 whole green cardamom",
+            "2 tbsp sugar"
         ]
     },
     {
         "id": 14,
-        "chefId":"rew5",
-        "recipeName": "Beef and Broccoli Stir-Fry",
-        "cookingMethod": "Stir-frying",
+        "chefId": "rew5",
+        "recipeName": "Spicy Dry Chicken – Kosha Murgir Mangsho",
+        "cookingMethod": "This may just be the tastiest chicken dish I’ve ever cooked. Yes, this is high praise, even if I’m saying it myself. Kosha is a semi-dry curry, where the chicken is cooked slowly with the spices over a long period of time. I consider this manual slow cooking. While labor intensive.",
         "rating": 4.3,
         "ingredients": [
-            "Beef sirloin",
-            "Broccoli",
-            "Soy sauce",
-            "Garlic",
-            "Ginger"
+            "1/2 head of cabbage shredded thinly",
+            "2 tbsp ghee",
+            "1-2 dried red chili",
+            "4-6 cloves garlic, chopped",
+            "1/2 tsp black mustard seeds"
         ]
     },
     {
         "id": 15,
-        "chefId":"rew5",
-        "recipeName": "Mushroom Risotto",
-        "cookingMethod": "Sautéing, simmering",
+        "chefId": "rew5",
+        "recipeName": "Yogurt and Cilantro marinated grilled chicken",
+        "cookingMethod": "This is a great family favorite. Loved by both my wife and me. In fact, the recipe credit goes to her for having been able to replicate the recipe and taste that had become on of your go to orders and good tandoori restaurants. And this is an easy one to do too.",
         "rating": 4.6,
         "ingredients": [
-            "Arborio rice",
-            "Mushrooms",
-            "Parmesan cheese",
-            "Onion",
-            "White wine"
+            "2 cups of yogurt",
+            "One large bunch of cilantro (coriander leaves) stems included",
+            "3 tsps of salt",
+            "1 1/2 tsps black pepper",
+            "2 tsps ground corianderWhite wine"
         ]
     },
     {
         "id": 16,
-        "chefId":"rew6",
-        "recipeName": "Salmon with Lemon and Dill",
-        "cookingMethod": "Baking",
+        "chefId": "rewq1",
+        "recipeName": "Panch Foron",
+        "cookingMethod": "Panch phoron (পাঁচ ফোড়ন  pãch pho?on) is a whole spice blend used as a flavor enhancer to a number of dishes on Bangladesh. The name literally means “five spices”. Unlike most spice mixes, panch phoron is always used whole and never ground. Traditionally, panch phoron is used with vegetables, chicken or beef curry, fish, lentils, ",
         "rating": 4.7,
         "ingredients": [
-            "Salmon fillets",
-            "Lemon",
-            "Dill",
-            "Olive oil",
-            "Salt and pepper"
+            "cumin seeds",
+            "fennel seeds",
+            "fenugreek seeds",
+            "black mustard seeds",
+            "nigella"
         ]
     },
     {
         "id": 17,
-        "chefId":"rew6",
-        "recipeName": "Roast Chicken",
-        "cookingMethod": "Roasting",
+        "chefId": "rewq1",
+        "recipeName": "Homestyle Chicken Korma",
+        "cookingMethod": "I love my Kormas. Most of all I love Bangladeshi Kormas, which tend to be lightly spiced but heavily flavored. We do not put a lot of heavy cream like the Indian version but prefer onions and ghee to give the creaminess. I came across this recipe in the New York Times via Shama Mubdi. This is supremely easy to make. Stir it all in and cook.  The flavors are authentic.",
         "rating": 4.4,
         "ingredients": [
-            "Whole chicken",
-            "Lemon",
-            "Garlic",
-            "Rosemary",
-            "Olive oil"
+            "2 pounds bone-in chicken (dark meat best)",
+            "2 medium onions,  peeled",
+            "1.5  inch of ginger, chopped",
+            "4 cloves garlic, chopped",
+            "½ cup whole-milk yogurt"
         ]
     },
     {
         "id": 18,
-        "chefId":"rew6",
-        "recipeName": "Beef Tacos",
-        "cookingMethod": "Grilling, sautéing",
+        "chefId": "rewq1",
+        "recipeName": "Basmati Rice",
+        "cookingMethod": "A very fragrant rendition of Basmati rice.",
         "rating": 4.0,
         "ingredients": [
-            "Ground beef",
-            "Taco seasoning",
-            "Tortillas",
-            "Lettuce",
-            "Tomatoes"
+            "1 cup Basmati rice",
+            "1 small onion",
+            "3 medium carrots",
+            "1 bay leaf",
+            "1 cinnamon stick, crumbled"
         ]
     }
 ]

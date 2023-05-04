@@ -2,54 +2,54 @@
     {
         "id":"rew1",
         "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "ChefName": "John Smith",
+        "ChefName": "Chef Ahmed Hossain",
         "experience": "10 years",
-        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 50,
         "Likes": 1000
     },
     {
         "id":"rew2",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "ChefName": "Jane Doe",
+        "chefPicture": "https://i.ibb.co/NyJXfzX/chef-2.jpg",
+        "ChefName": "Feroze-Khan",
         "experience": "5 years",
-        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 20,
         "Likes": 500
     },
     {
         "id":"rew3",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "ChefName": "David Lee",
+        "chefPicture": "https://i.ibb.co/wptF7JW/Chef-3.jpg",
+        "ChefName": "Chef Kabir",
         "experience": "8 years",
-        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 30,
         "Likes": 800
     },
     {
         "id":"rew4",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "ChefName": "Sarah Kim",
+        "chefPicture": "https://i.ibb.co/FnRSg0L/chefs-4.jpg",
+        "ChefName": "Manik Miah",
         "experience": "3 years",
-        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 10,
         "Likes": 200
     },
     {
         "id":"rew5",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "ChefName": "Mark Lee",
+        "chefPicture": "https://i.ibb.co/2hgTMwx/chefs-5.jpg",
+        "ChefName": "Chef Baisab",
         "experience": "6 years",
-        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 40,
         "Likes": 600
     },
     {
         "id":"rewq1",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
-        "ChefName": "Emily Chen",
+        "chefPicture": "https://i.ibb.co/pPWMM4b/Chef-6.jpg",
+        "ChefName": "Mr. Feroze Khan",
         "experience": "2 years",
-        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
+        "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
         "NumberOfRecipes": 5,
         "Likes": 50
     }
