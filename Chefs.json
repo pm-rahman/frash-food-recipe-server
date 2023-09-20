@@ -1,7 +1,7 @@
 [
     {
         "id":"rew1",
-        "chefPicture": "https://i.ibb.co/VxJ2pfn/chefs-1.jpg",
+        "chefPicture": "https://i.ibb.co/wCVX7zt/chef-1.jpg",
         "ChefName": "Chef Ahmed Hossain",
         "experience": "10 years",
         "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
@@ -10,7 +10,7 @@
     },
     {
         "id":"rew2",
-        "chefPicture": "https://i.ibb.co/NyJXfzX/chef-2.jpg",
+        "chefPicture": "https://i.ibb.co/Wx6yHVv/chef-2.jpg",
         "ChefName": "Feroze-Khan",
         "experience": "5 years",
         "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
@@ -19,7 +19,7 @@
     },
     {
         "id":"rew3",
-        "chefPicture": "https://i.ibb.co/wptF7JW/Chef-3.jpg",
+        "chefPicture": "https://i.ibb.co/DDQpJR6/chefs-3.jpg",
         "ChefName": "Chef Kabir",
         "experience": "8 years",
         "bio": "Alice Waters is a chef, author, and activist who is best known for his beautiful recipes Alice Waters is a chef, author, and activist who is best known for his beautiful recipes",
